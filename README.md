@@ -1,3 +1,5 @@
+New change
+
 # created a local copy in your current dir
 git clone <GIT_URL>
 # stages all files/dirs
